@@ -12,7 +12,7 @@
 		<p>I love this game and the free demo is just like the game(but it dose not have the sand box mode) so you should try it, it is sooper</p>
 		<p>there ar planets(that look very real) and over 9 quadrillions starsustems</p>
 	<p><a href="https://www.youtube.com/watch?v=1n-sEN9fpgw">a tutorial</a></p>
-	<p>Starmade is fun but it is a hard game depending on what sort fo staton you cum acros soon there will be drones garding abandond statons and there are piret statons + the trading guild have statons.</p>
+	
 	
 	</body>
 </html>
